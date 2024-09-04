@@ -1,0 +1,34 @@
+.slidecontainer {
+    background-color: white;
+    border: 3px solid black;
+    width: 400px;
+    height: 400px;
+}
+
+#myRange {
+    width: 380px;
+    margin-top: 15px;
+    margin-left: 10px;
+    
+}
+
+.item {
+    
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    
+}
+
+#red {
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: red;
+}
+
+#green {
+    margin-top: 150px;
+    margin-left: 300px;
+    /* margin-right: 10px; */
+    background-color: green;
+}
